@@ -13,10 +13,11 @@ p{
   font-weight: bold;
   text-decoration: underline;
   font-size: 16px;
-  line-height: 48px;
-  line-height: 3em;
-  line-height: 3;
+  line-height: 5;
   background-color: pink;
+}
+img{
+  vertical-align: bottom;
 }
 a{
   text-decoration: none;
